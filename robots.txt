@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cambridge08.github.io/mabe-group-website/sitemap.xml
